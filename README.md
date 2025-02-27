@@ -1,6 +1,6 @@
 # Java_lab
-java lab reposity according to the weeks 
-<!--wek1-->
+java lab repository according to the weeks 
+<!--week1-->
 class Main 
 {
     public static void main (String [] args) 
@@ -10,6 +10,8 @@ class Main
         System.out.println("Roll No: 24333");
     }
 }
+
+<!--next code-->
 import java.util.Scanner;
 public class areaofrectangle {
     public static void main(String[] args) {
@@ -23,6 +25,7 @@ public class areaofrectangle {
         }
     }
 } area of rectangle
+
 <!--next code-->
 import java.util.Scanner;
 public class areaoftriangle {
@@ -44,6 +47,7 @@ public class areaoftriangle {
         }
     }
 } area of triangle
+
 <!--next code-->
 public class Conversion {
     public static void(String [] args){
@@ -54,6 +58,7 @@ public class Conversion {
     System.out.println("Temperature in Fahrenheit is: " + fahrenheit);
      }
 } celcius to Fahrenheit
+
 <!-- next code-->
 import java.util.Scanner;
 public class Factorial {
@@ -72,6 +77,7 @@ public class Factorial {
         }
     }
 } factorial
+
 <!--next code-->
 import java.util.Scanner;
 public class Fibinaci {
@@ -90,6 +96,7 @@ public class Fibinaci {
         }
     }
 } fibinacci
+
 <!-- next code-->
 public class SimpleInterestCalculator{   
      public static void main(String[] args) {
@@ -104,7 +111,8 @@ public class SimpleInterestCalculator{
             System.out.println("Simple Interest: ₹" + simpleInterest);
         }
     }
-} simple intrest
+} simple interest
+
 <!--next code-->
 import java.util.Scanner;
 public class Conversion2 {
@@ -117,7 +125,8 @@ public class Conversion2 {
             scanner.close();
         }
     }
-} Fahrenheit to celcius
+} Fahrenheit to celsius
+
 <!--next coed-->
 import java.util.Scanner;
 
